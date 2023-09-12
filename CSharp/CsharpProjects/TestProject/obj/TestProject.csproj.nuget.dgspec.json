@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "c:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "c:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "c:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "c:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "c:\\Users\\hp\\Desktop\\Caleb\\microsoft-c-sharp\\CSharp\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
