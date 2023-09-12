@@ -1,28 +1,19 @@
-﻿Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
+﻿/* Declare an array
+string[] fraudulentOrderIDs = new string[3];
 
-if (daysUntilExpiration < 1)
-{
-    Console.WriteLine("Your subscripoint has expired");
-}
-else if (daysUntilExpiration == 1)
-{
-    discountPercentage = 20;
-    Console.WriteLine("Your subscription expires within a day!");
-}
-else if (daysUntilExpiration <= 5)
-{
-    discountPercentage = 10;
-    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.");
-}
-else if (daysUntilExpiration <= 10)
-{
-    Console.WriteLine("Your subscription will expire soon. Renew now!");
+Assign values
+fraudulentOrderIDs[0] = "A123";
+fraudulentOrderIDs[1] = "B456";
+fraudulentOrderIDs[2] = "C789";
+// fraudulentOrderIDs[3] = "D000";
+*/
 
-}
+// Initialize an array directly
+string[] fraudulentOrderIDs = {"C12", "C13", "C14"};
 
-if (discountPercentage > 0)
-{
-    Console.WriteLine($"Renew now and save {discountPercentage}%");
-}
+Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+Console.WriteLine(fraudulentOrderIDs[1]);
+Console.WriteLine(fraudulentOrderIDs[2]);
+
+Console.WriteLine($"We currently have {fraudulentOrderIDs.Length} fraudulent orders.");
