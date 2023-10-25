@@ -1,4 +1,4 @@
-﻿// Loop through array of names
+// Loop through array of names
 string[] names = {"Rowena", "Robin", "Bao"};
 
 foreach (string name in names)
