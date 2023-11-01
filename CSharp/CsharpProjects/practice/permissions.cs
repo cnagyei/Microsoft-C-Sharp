@@ -1,4 +1,4 @@
-﻿string permission = "Admin|Manager";
+string permission = "Admin|Manager";
 int level = 15;
 
 Console.WriteLine(permission.Contains("Admin") && level > 55 ? "Welcome, Super Admin" : 
