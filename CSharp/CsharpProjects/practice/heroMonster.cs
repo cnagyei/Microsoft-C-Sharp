@@ -1,4 +1,4 @@
-﻿Random random = new Random();
+Random random = new Random();
 int current;
 int hero = 10, monster = 10;
 
