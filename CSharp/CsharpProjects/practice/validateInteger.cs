@@ -1,4 +1,4 @@
-﻿string? readLine;
+string? readLine;
 bool validNumber = false;
 int numericValue = 0;
 
