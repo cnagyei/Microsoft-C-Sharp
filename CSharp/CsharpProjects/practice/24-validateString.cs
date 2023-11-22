@@ -1,4 +1,4 @@
-﻿string? readLine;
+string? readLine;
 string? roleEntry;
 string[] role = {"administrator", "manager", "user"};
 
