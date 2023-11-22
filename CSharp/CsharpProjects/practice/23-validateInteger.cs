@@ -15,3 +15,5 @@ do
     else
         Console.WriteLine("Sorry, you entered an invalid number, please try again");
 } while (validNumber == false || (numericValue <= 5 || numericValue >= 10));
+
+Console.WriteLine($"Your input value {numericValue} has been accepted");
