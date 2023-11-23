@@ -1,4 +1,4 @@
-﻿int i, stringsCount, periodLocation;
+int i, stringsCount, periodLocation;
 string myString, mySentence;
 
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad",
